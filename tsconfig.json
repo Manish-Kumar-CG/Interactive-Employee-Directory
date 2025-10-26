@@ -1,0 +1,11 @@
+
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "lib": ["ES6", "DOM"],
+    "outFile": "js/app.js",
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["ts/app.ts"]
+}
