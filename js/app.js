@@ -1,5 +1,3 @@
-
-// js/app.js
 (function () {
   const $list = $('#employeeList');
   const $search = $('#searchInput');
